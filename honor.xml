@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="honor.xsl"?>
+<!-- Honor System v4.40 by Spirit, using SQLdb version 0.2.4 (SQLite 3 Library v3.3.5 / SQLite 3 Server v3.3.5), page updated: Sun Feb 04 21:31:37 Russian Standard Time 2007 -->
+<stats><players><count>85</count>
+<player><pos>1</pos><name>ChongaLonga</name><guild>Horde Guard</guild><level>67</level><race>3</race><class>1</class><kills>1658</kills><dkills>6</dkills><honor>59774</honor></player>
+<player><pos>2</pos><name>GreeNpeaCE</name><guild>Horde Guard</guild><level>60</level><race>6</race><class>1</class><kills>2894</kills><dkills>5</dkills><honor>52978</honor></player>
+<player><pos>3</pos><name>VEnOm</name><guild>The Rising Sun</guild><level>64</level><race>1</race><class>1</class><kills>2460</kills><dkills>2</dkills><honor>45602</honor></player>
+<player><pos>4</pos><name>FockuS</name><guild>Horde Guard</guild><level>62</level><race>6</race><class>11</class><kills>2353</kills><dkills>8</dkills><honor>31663</honor></player>
+<player><pos>5</pos><name>Hybrid</name><guild>The Rising Sun</guild><level>64</level><race>4</race><class>11</class><kills>2427</kills><dkills>2</dkills><honor>30224</honor></player>
+<player><pos>6</pos><name>Raiton</name><guild>The Rising Sun</guild><level>60</level><race>1</race><class>8</class><kills>1698</kills><dkills>0</dkills><honor>16187</honor></player>
+<player><pos>7</pos><name>Machine</name><guild>Horde Guard</guild><level>65</level><race>2</race><class>7</class><kills>706</kills><dkills>7</dkills><honor>11924</honor></player>
+<player><pos>8</pos><name>Patriot</name><guild>The Rising Sun</guild><level>63</level><race>4</race><class>1</class><kills>563</kills><dkills>0</dkills><honor>11440</honor></player>
+<player><pos>9</pos><name>Turish</name><guild></guild><level>60</level><race>3</race><class>1</class><kills>354</kills><dkills>1</dkills><honor>9098</honor></player>
+<player><pos>10</pos><name>Blonde</name><guild></guild><level>60</level><race>1</race><class>1</class><kills>230</kills><dkills>3</dkills><honor>4893</honor></player>
+<player><pos>11</pos><name>Dilvish</name><guild></guild><level>60</level><race>1</race><class>4</class><kills>372</kills><dkills>11</dkills><honor>4042</honor></player>
+<player><pos>12</pos><name>Jet</name><guild>Horde Guard</guild><level>65</level><race>6</race><class>1</class><kills>323</kills><dkills>5</dkills><honor>3802</honor></player>
+<player><pos>13</pos><name>neversmile</name><guild>The Rising Sun</guild><level>56</level><race>4</race><class>11</class><kills>342</kills><dkills>2</dkills><honor>3761</honor></player>
+<player><pos>14</pos><name>RazLOsheNIE</name><guild>Horde Guard</guild><level>62</level><race>5</race><class>5</class><kills>256</kills><dkills>10</dkills><honor>3540</honor></player>
+<player><pos>15</pos><name>MeRtaL</name><guild>Horde Guard</guild><level>62</level><race>2</race><class>1</class><kills>176</kills><dkills>2</dkills><honor>3502</honor></player>
+<player><pos>16</pos><name>podvodoi</name><guild>The Rising Sun</guild><level>66</level><race>4</race><class>11</class><kills>252</kills><dkills>1</dkills><honor>2538</honor></player>
+<player><pos>17</pos><name>Executor</name><guild>The Rising Sun</guild><level>63</level><race>4</race><class>5</class><kills>317</kills><dkills>1</dkills><honor>2497</honor></player>
+<player><pos>18</pos><name>Engineer</name><guild>The Rising Sun</guild><level>63</level><race>7</race><class>8</class><kills>236</kills><dkills>4</dkills><honor>2368</honor></player>
+<player><pos>19</pos><name>Hamster</name><guild>Horde Guard</guild><level>43</level><race>8</race><class>3</class><kills>104</kills><dkills>4</dkills><honor>2340</honor></player>
+<player><pos>20</pos><name>MixMasterM</name><guild></guild><level>62</level><race>1</race><class>2</class><kills>145</kills><dkills>4</dkills><honor>2230</honor></player>
+<player><pos>21</pos><name>Baal</name><guild></guild><level>62</level><race>1</race><class>2</class><kills>309</kills><dkills>0</dkills><honor>2205</honor></player>
+<player><pos>22</pos><name>AxuJIec</name><guild></guild><level>16</level><race>5</race><class>1</class><kills>16</kills><dkills>0</dkills><honor>1686</honor></player>
+<player><pos>23</pos><name>glok</name><guild>The Rising Sun</guild><level>60</level><race>1</race><class>2</class><kills>97</kills><dkills>1</dkills><honor>1642</honor></player>
+<player><pos>24</pos><name>Card</name><guild></guild><level>45</level><race>1</race><class>1</class><kills>125</kills><dkills>1</dkills><honor>1323</honor></player>
+<player><pos>25</pos><name>Mononoke</name><guild>The Rising Sun</guild><level>60</level><race>4</race><class>3</class><kills>62</kills><dkills>0</dkills><honor>1307</honor></player>
+<player><pos>26</pos><name>Salomon</name><guild>The Rising Sun</guild><level>62</level><race>1</race><class>5</class><kills>48</kills><dkills>1</dkills><honor>1269</honor></player>
+<player><pos>27</pos><name>Dexter</name><guild>The Rising Sun</guild><level>60</level><race>4</race><class>1</class><kills>184</kills><dkills>0</dkills><honor>1253</honor></player>
+<player><pos>28</pos><name>Apocalipsis</name><guild></guild><level>53</level><race>4</race><class>11</class><kills>140</kills><dkills>7</dkills><honor>1232</honor></player>
+<player><pos>29</pos><name>ZoloD</name><guild>Horde Guard</guild><level>60</level><race>6</race><class>11</class><kills>16</kills><dkills>4</dkills><honor>1148</honor></player>
+<player><pos>30</pos><name>Nexuz</name><guild>The Rising Sun</guild><level>61</level><race>7</race><class>8</class><kills>101</kills><dkills>5</dkills><honor>1125</honor></player>
+<player><pos>31</pos><name>Maikll</name><guild></guild><level>53</level><race>7</race><class>8</class><kills>115</kills><dkills>30</dkills><honor>1020</honor></player>
+<player><pos>32</pos><name>BASTA</name><guild>Horde Guard</guild><level>60</level><race>8</race><class>4</class><kills>55</kills><dkills>5</dkills><honor>842</honor></player>
+<player><pos>33</pos><name>MetaBolic</name><guild></guild><level>66</level><race>1</race><class>2</class><kills>143</kills><dkills>10</dkills><honor>821</honor></player>
+<player><pos>34</pos><name>AID</name><guild>Horde Guard</guild><level>61</level><race>2</race><class>1</class><kills>100</kills><dkills>25</dkills><honor>719</honor></player>
+<player><pos>35</pos><name>WiseNebulae</name><guild>The Rising Sun</guild><level>63</level><race>4</race><class>11</class><kills>47</kills><dkills>0</dkills><honor>718</honor></player>
+<player><pos>36</pos><name>Nosferaty</name><guild>Horde Guard</guild><level>60</level><race>5</race><class>8</class><kills>18</kills><dkills>0</dkills><honor>594</honor></player>
+<player><pos>37</pos><name>Cyberichka</name><guild></guild><level>31</level><race>4</race><class>3</class><kills>76</kills><dkills>0</dkills><honor>553</honor></player>
+<player><pos>38</pos><name>Seporator</name><guild></guild><level>38</level><race>1</race><class>9</class><kills>27</kills><dkills>8</dkills><honor>416</honor></player>
+<player><pos>39</pos><name>bruha</name><guild>The Rising Sun</guild><level>55</level><race>1</race><class>8</class><kills>39</kills><dkills>2</dkills><honor>303</honor></player>
+<player><pos>40</pos><name>Fenix</name><guild></guild><level>28</level><race>4</race><class>1</class><kills>26</kills><dkills>1</dkills><honor>301</honor></player>
+<player><pos>41</pos><name>eRmak</name><guild></guild><level>60</level><race>4</race><class>4</class><kills>37</kills><dkills>1</dkills><honor>275</honor></player>
+<player><pos>42</pos><name>pop</name><guild>The Rising Sun</guild><level>63</level><race>1</race><class>8</class><kills>26</kills><dkills>0</dkills><honor>262</honor></player>
+<player><pos>43</pos><name>Crecer</name><guild>Horde Guard</guild><level>41</level><race>2</race><class>7</class><kills>5</kills><dkills>5</dkills><honor>255</honor></player>
+<player><pos>44</pos><name>Elron</name><guild></guild><level>53</level><race>4</race><class>5</class><kills>12</kills><dkills>0</dkills><honor>238</honor></player>
+<player><pos>45</pos><name>Braver</name><guild></guild><level>40</level><race>7</race><class>8</class><kills>58</kills><dkills>3</dkills><honor>230</honor></player>
+<player><pos>46</pos><name>Volchonok</name><guild></guild><level>26</level><race>4</race><class>11</class><kills>13</kills><dkills>0</dkills><honor>230</honor></player>
+<player><pos>47</pos><name>Yunnie</name><guild>The Rising Sun</guild><level>26</level><race>4</race><class>5</class><kills>12</kills><dkills>1</dkills><honor>229</honor></player>
+<player><pos>48</pos><name>COLDAT</name><guild>Horde Guard</guild><level>26</level><race>5</race><class>8</class><kills>26</kills><dkills>25</dkills><honor>225</honor></player>
+<player><pos>49</pos><name>Sadist</name><guild>The Rising Sun</guild><level>61</level><race>4</race><class>11</class><kills>39</kills><dkills>8</dkills><honor>224</honor></player>
+<player><pos>50</pos><name>GOPNIK</name><guild>The Rising Sun</guild><level>31</level><race>1</race><class>9</class><kills>13</kills><dkills>1</dkills><honor>194</honor></player>
+<player><pos>51</pos><name>Quadi</name><guild>Horde Guard</guild><level>22</level><race>6</race><class>7</class><kills>3</kills><dkills>0</dkills><honor>194</honor></player>
+<player><pos>52</pos><name>Select</name><guild>Horde Guard</guild><level>49</level><race>5</race><class>9</class><kills>8</kills><dkills>3</dkills><honor>187</honor></player>
+<player><pos>53</pos><name>Bern</name><guild>Horde Guard</guild><level>39</level><race>5</race><class>5</class><kills>8</kills><dkills>0</dkills><honor>177</honor></player>
+<player><pos>54</pos><name>Mango</name><guild>The Rising Sun</guild><level>59</level><race>4</race><class>11</class><kills>27</kills><dkills>2</dkills><honor>168</honor></player>
+<player><pos>55</pos><name>Sitronics</name><guild></guild><level>23</level><race>8</race><class>7</class><kills>10</kills><dkills>8</dkills><honor>141</honor></player>
+<player><pos>56</pos><name>Grott</name><guild></guild><level>52</level><race>3</race><class>5</class><kills>5</kills><dkills>0</dkills><honor>98</honor></player>
+<player><pos>57</pos><name>Marcus</name><guild>The Rising Sun</guild><level>50</level><race>1</race><class>5</class><kills>9</kills><dkills>0</dkills><honor>97</honor></player>
+<player><pos>58</pos><name>TPyIIuK</name><guild>Horde Guard</guild><level>33</level><race>5</race><class>1</class><kills>9</kills><dkills>29</dkills><honor>95</honor></player>
+<player><pos>59</pos><name>nameless</name><guild></guild><level>36</level><race>4</race><class>4</class><kills>10</kills><dkills>0</dkills><honor>91</honor></player>
+<player><pos>60</pos><name>SICNES</name><guild></guild><level>60</level><race>1</race><class>2</class><kills>12</kills><dkills>0</dkills><honor>88</honor></player>
+<player><pos>61</pos><name>UrukHai</name><guild></guild><level>38</level><race>2</race><class>4</class><kills>2</kills><dkills>0</dkills><honor>81</honor></player>
+<player><pos>62</pos><name>deadman</name><guild></guild><level>6</level><race>5</race><class>9</class><kills>1</kills><dkills>0</dkills><honor>73</honor></player>
+<player><pos>63</pos><name>Otard</name><guild></guild><level>24</level><race>4</race><class>4</class><kills>13</kills><dkills>0</dkills><honor>72</honor></player>
+<player><pos>64</pos><name>Gangar</name><guild></guild><level>29</level><race>1</race><class>1</class><kills>5</kills><dkills>0</dkills><honor>70</honor></player>
+<player><pos>65</pos><name>Dron</name><guild>Horde Guard</guild><level>40</level><race>8</race><class>1</class><kills>5</kills><dkills>8</dkills><honor>61</honor></player>
+<player><pos>66</pos><name>Celwinden</name><guild></guild><level>44</level><race>4</race><class>4</class><kills>10</kills><dkills>1</dkills><honor>40</honor></player>
+<player><pos>67</pos><name>HarD</name><guild></guild><level>17</level><race>5</race><class>4</class><kills>1</kills><dkills>0</dkills><honor>29</honor></player>
+<player><pos>68</pos><name>Xlorka</name><guild></guild><level>19</level><race>4</race><class>3</class><kills>10</kills><dkills>0</dkills><honor>21</honor></player>
+<player><pos>69</pos><name>keshinberg</name><guild></guild><level>33</level><race>4</race><class>11</class><kills>3</kills><dkills>2</dkills><honor>19</honor></player>
+<player><pos>70</pos><name>gadyuka</name><guild></guild><level>37</level><race>1</race><class>9</class><kills>3</kills><dkills>0</dkills><honor>16</honor></player>
+<player><pos>71</pos><name>Spring</name><guild></guild><level>29</level><race>1</race><class>5</class><kills>1</kills><dkills>0</dkills><honor>14</honor></player>
+<player><pos>72</pos><name>Tonop</name><guild></guild><level>60</level><race>3</race><class>2</class><kills>3</kills><dkills>0</dkills><honor>10</honor></player>
+<player><pos>73</pos><name>Fanne</name><guild></guild><level>20</level><race>4</race><class>5</class><kills>1</kills><dkills>1</dkills><honor>4</honor></player>
+<player><pos>74</pos><name>whirlwind</name><guild>The Rising Sun</guild><level>35</level><race>4</race><class>3</class><kills>1</kills><dkills>0</dkills><honor>4</honor></player>
+<player><pos>75</pos><name>tondori</name><guild></guild><level>8</level><race>5</race><class>9</class><kills>2</kills><dkills>0</dkills><honor>3</honor></player>
+<player><pos>76</pos><name>BlackSuN</name><guild></guild><level>34</level><race>4</race><class>1</class><kills>16</kills><dkills>7</dkills><honor>3</honor></player>
+<player><pos>77</pos><name>GrEEnDeViL</name><guild></guild><level>42</level><race>8</race><class>7</class><kills>2</kills><dkills>2</dkills><honor>0</honor></player>
+<player><pos>78</pos><name>HybridRock</name><guild>The Rising Sun</guild><level>63</level><race>4</race><class>11</class><kills>207</kills><dkills>2</dkills><honor>0</honor></player>
+<player><pos>79</pos><name>Krendel</name><guild>Horde Guard</guild><level>26</level><race>6</race><class>11</class><kills>0</kills><dkills>1</dkills><honor>0</honor></player>
+<player><pos>80</pos><name>Garry</name><guild></guild><level>10</level><race>1</race><class>8</class><kills>0</kills><dkills>1</dkills><honor>0</honor></player>
+<player><pos>81</pos><name>Melkaya</name><guild></guild><level>40</level><race>7</race><class>8</class><kills>0</kills><dkills>0</dkills><honor>0</honor></player>
+<player><pos>82</pos><name>MiNiMy</name><guild>The Rising Sun</guild><level>49</level><race>7</race><class>8</class><kills>30</kills><dkills>24</dkills><honor>0</honor></player>
+<player><pos>83</pos><name>Normal</name><guild>Horde Guard</guild><level>23</level><race>5</race><class>5</class><kills>0</kills><dkills>1</dkills><honor>0</honor></player>
+<player><pos>84</pos><name>Gladiator</name><guild></guild><level>32</level><race>1</race><class>1</class><kills>0</kills><dkills>1</dkills><honor>0</honor></player>
+<player><pos>85</pos><name>Worad</name><guild></guild><level>43</level><race>6</race><class>7</class><kills>0</kills><dkills>16</dkills><honor>0</honor></player>
+</players></stats>

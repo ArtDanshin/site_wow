@@ -1,0 +1,78 @@
+<html><head>
+<link type="text/css" rel="StyleSheet" href="osnova/my.css" />
+<script type="text/javascript"><!--
+function show_profile(uid){window.open('/index/8-'+uid,'user_details','scrollbars=1,top=0,left=0,resizable=1,width=680,height=350') || alert('Отключите блокировку всплывающих окон!');return false;}
+var wasclk=[];
+var init_val=['Имя','Email/Сайт','Сообщение','Доп. поле 1','Доп. поле 2'];
+var fld_name=['uname','email','message','custom1','custom2'];
+function ffoc(e,i){if(wasclk[i]==0){e.value='';wasclk[i]=1;e.style.color='#000000'}if(tAct){clearTimeout(tID);tAct=false;document.getElementById("mchatRSel").selectedIndex=0;}}
+function fblur(e,i){if(e.value=='' && wasclk[i]==1){e.value=e.title;wasclk[i]=0;e.style.color='#808080';}}
+function initform() {
+f=document.forms['addform'];
+for(var i=0;i<init_val.length;i++)
+ if(f[fld_name[i]])
+ {f[fld_name[i]].value=f[fld_name[i]].title=init_val[i];wasclk[i]=0;f[fld_name[i]].style.color='#808080';}
+var res=document.cookie.match(/(\W|^)mcnm=([^ ;]+)/);if(res){ffoc(f.uname,0);f.uname.value=unescape(RegExp.$2);}
+res=document.cookie.match(/(\W|^)mcem=([^ ;]+)/);if(res && f.email){ffoc(f.email,1);f.email.value=unescape(RegExp.$2);}
+}
+function checkform(f) {
+for(var i=0;i<init_val.length;i++)if(f[fld_name[i]]){if(wasclk[i]==0)f[fld_name[i]].value='';wasclk[i]=2;f[fld_name[i]].style.color='#000000';}
+var t=new Date((new Date()).getTime()+86400*90);
+document.cookie="mcnm="+(f.uname.value.length>0?escape(f.uname.value):'')+"; path=/mchat; expires="+t.toGMTString();
+document.cookie="mcem="+(f.email && f.email.value.length>0?escape(f.email.value):'')+"; path=/mchat; expires="+t.toGMTString();
+if(f[fld_name[1]])if(f[fld_name[1]].value.length>0 && !f[fld_name[1]].value.match(/^[a-z0-9_.-]+\@[a-z0-9_.-]+$/i)){f[fld_name[1]].name='url';}
+window.open('','mchatmsg','width=300,height=140,top=0,left=0');
+return true;
+}
+var tID=null;
+var tAct=false;
+function setT(s){
+var v=parseInt(s.options[s.selectedIndex].value);
+document.cookie="mcrt="+s.selectedIndex+"; path=/mchat";
+if(tAct){clearTimeout(tID);tAct=false;}
+if(v>0){tID=setTimeout("window.location.reload()",v*1000);tAct=true;}
+}
+function initSel() {
+var res=document.cookie.match(/(\W|^)mcrt=([0-9]+)/);
+if(res){s=document.getElementById("mchatRSel");s.selectedIndex=parseInt(RegExp.$2);setT(s);}
+}
+//--></script>
+</head>
+<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" class="mchat" onload="initform();initSel();" style="background: transparent none">
+<table class="mchat" border="0" cellpadding="0" cellspacing="0" width="100%" height="100%" class="mchat" style="table-layout:fixed;height:100%">
+<tfoot>
+<tr><td height="78" style="padding:0" align="left"><div style="margin:2px;padding:0px;text-align:right;vertical-align:middle">
+<a class="noun" href="" onclick="window.location.reload();return false;" title="Обновить" align="left">[Обновить]</a>&nbsp&nbsp&nbsp&nbsp&nbsp
+<a class="noun" href="javascript:void('smiles')" onclick="ffoc(document.forms.addform.message,2);wasclk[2]=2;window.open('/mchat/0-2','csmiles','scrollbars=1,width=350,height=450,left=0,top=0');return false;" title="Вставить смайл" align="right">[Смайлы]</a>
+</div><form style="margin:2px" name="addform" action="/mchat/?493936115.594003" method="post" class="mchat" target="mchatmsg">
+<input type="text" maxlength="200" name="message" size="22" class="mchat" id="mchatMsgF" value="" onfocus="ffoc(this,2)" onblur="fblur(this,2)" title="Сообщение" style="width:70%;margin:0;padding:1px;border:1px solid black;height:20px">
+<input type="submit" value="Пуск" class="mchat" id="mchatBtn" style="width:40px;height:20px;margin:0;border:2px solid black" onclick="return checkform(this.form);"><input type="hidden" name="s" value="201350134515666501654"><input type="hidden" name="a" value="8"></form>
+<center><a class="noun" href="javascript:void('Message control')" onclick="window.open('/mchat/0-1','mchatCtrl','scrollbars=1,width=550,height=550,left=0,top=0');return false;" title="Управление сообщениями">[Модераторская комната]</a></center>
+</td></tr></tfoot><tbody>
+<tr><td valign="top" id="mchatTd">
+<script type="text/javascript">
+var td=document.getElementById('mchatTd');if(td && td.offsetHeight>0) td.style.height=td.offsetHeight+'px';
+</script>
+<div id="mchatDiv" class="mchat" style="overflow:auto;height:100%;width:100%">
+<table id="mchatTbl" class="mchat" border="0" cellpadding="3" cellspacing="1" width="100%" class="mchat" style="white-space:normal">
+<tr><td class="postRest1">
+<div class="commDateTd" align="right" title="1">08 Января 2007 00:28:19</div>
+<a href="javascript:void('profile of Chaynik')" onclick="return show_profile('2');" class="commUser" title="Chaynik" rel="nofollow"><b><span class="commName">Chaynik</span></b></a>
+ 
+ 
+: <span class="commCommentTd">Здарова Дэн!!!</span>
+
+
+</td></tr><tr><td class="postRest2">
+<div class="commDateTd" align="right" title="2">08 Января 2007 00:03:34</div>
+<a href="javascript:void('profile of Daniel')" onclick="return show_profile('3');" class="commUser" title="Daniel" rel="nofollow"><b><span class="commName">Daniel</span></b></a>
+ 
+ 
+: <span class="commCommentTd">Всем привет!Да здравствует Кунцево-ВоВ!</span>
+
+
+</td></tr>
+</table></div>
+</td></tr>
+</table>
+</body></html>
